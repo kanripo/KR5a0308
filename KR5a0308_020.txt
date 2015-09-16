@@ -1,32 +1,31 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:44:43.099282
+# -*- mode: mandoku-view -*-
 #+TITLE: 曆世真仙體道通鑒
-#+PROPERTY: DZID  DZ0296
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，5—99 五十三卷 洞真部記傳類
+#+DATE: 2015-08-28 23:46:12
+#+PROPERTY:  LASTPB <PB KR5a0308_SJB_055-050407a>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
-#+PROPERTY: LASTPB <pb:KR5a0308_SJB_020-050213b>
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: LASTPB  <md:KR5a0308_HFL_019-016b>
 #+PROPERTY: JUAN 20
-#+PROPERTY: ID KR5a0308
-<pb:KR5a0308_HFL_020-001a>¶
-歷世眞仙體道通鑑卷之十九¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-<pb:KR5a0308_HFL_020-001b>¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
+<md:KR5a0308_HFL_020-001a>¶<pb:KR5a0308_SJB_020-050213c>
+歷世眞仙體道通鑑卷之十九¶¶¶¶¶¶¶¶¶¶<md:KR5a0308_HFL_020-001b>¶¶¶¶¶¶¶¶¶¶¶
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
